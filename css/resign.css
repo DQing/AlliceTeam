@@ -3,9 +3,9 @@ body {
     padding-bottom: 30px;
     background-color: #eee;
 }
-.content{
+/*.content{
     background-image: url("../image/8.jpg");
-}
+}*/
 .theme-dropdown .dropdown-menu {
     position: static;
     display: block;
