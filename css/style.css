@@ -8,10 +8,13 @@
     src: url(../fonts/OpenSans-Regular.ttf) format('truetype');
 }
 
-body {
-    background: #deecdf;
+/*body {*/
+    /*background: #deecdf;*/
+/*}*/
+.service-grids{
+    background-color: #C6D9C7;
+    margin-top: 100px;
 }
-
 body a {
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -758,3 +761,5 @@ span.glyphicon.glyphicon-signal {
         .contact-details input[type="submit"] {
             font-size: 0.8em;
         }
+    }
+}

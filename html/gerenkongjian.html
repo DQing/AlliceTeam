@@ -33,37 +33,105 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 </head>
 <body>
-<!--start-header-section-->
-<div class="header-section">
-    <div class="continer">
-        <img src="../image/p1.png">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="btn btn-defalut btn-lg"
-                                                                                   href="index.html">退出登陆</a>
+<div class="navbar-wrapper">
+    <div class="container-fluid">
+        <nav class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                            aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">创客网</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav ">
+                        <li><a href="index.html">首页</a></li>
+                        <li><a href="jiaoyi.html">交易市场</a></li>
+                        <li><a href="youxiu.html">优秀作品</a></li>
+                        <li><a href="xieblog.html">写博客</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="resign.html">修改资料</a></li>
+                        <li><a href="login.html">退出登录</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
     </div>
 </div>
-<!--end header-section-->
-<!--start-study-section-->
+<div class="header-section">
+    <div class="container">
+        <form>
+            <img src="../image/p1.png" onclick="document.querySelector('#fileInput').click()"/>
+            <input type="file" id="fileInput" name="file" multiple size="200" style="display: none">
+        </form>
+    </div>
+</div>
 <div class="study-section">
     <div class="container">
         <div class="study-grids">
-            <div class="col-md-6 study-grid">
+            <div class="col-md-7 study-grid">
                 <h3>成果</h3>
                 <div class="study1">
-                    <p>成果一<a class="成果一" href="../html/blog.html"><label>( 2011.04.25 )</label></p>
-                    <p>成果二<a class="成果二" href="../html/blog.html"> <label>( 2009.05.26 )</label></p>
-                    <p>成果三<a class="成果三" href="../html/blog.html"><label>( 2009.05.26 )</label></p>
-                    <p>成果一<a class="成果一" href="../html/blog.html"><label>( 2011.04.25 )</label></p>
-                    <p>成果二<a class="成果二" href="../html/blog.html"> <label>( 2009.05.26 )</label></p>
-                    <p>成果三<a class="成果三" href="../html/blog.html"><label>( 2009.05.26 )</label></p>
-                    <p>成果一<a class="成果一" href="../html/blog.html"><label>( 2011.04.25 )</label></p>
-                    <p>成果二<a class="成果二" href="../html/blog.html"> <label>( 2009.05.26 )</label></p>
-                    <p>成果三<a class="成果三" href="../html/blog.html"><label>( 2009.05.26 )</label></p>
+                    <p><a class="成果一" href="../html/blog.html">成果一</a><label>( 2011.04.25 )</label></p>
+                    <p><a class="成果二" href="../html/blog.html">成果二 </a><label>( 2009.05.26 )</label></p>
+                    <p><a class="成果三" href="../html/blog.html">成果三</a><label>( 2009.05.26 )</label></p>
+                    <p><a class="成果一" href="../html/blog.html">成果一</a><label>( 2011.04.25 )</label></p>
+                    <p><a class="成果二" href="../html/blog.html">成果二</a><label>( 2009.05.26 )</label></p>
+                    <p><a class="成果三" href="../html/blog.html">成果三</a><label>( 2009.05.26 )</label></p>
+                    <p><a class="成果一" href="../html/blog.html">成果一</a><label>( 2011.04.25 )</label></p>
+                    <p><a class="成果二" href="../html/blog.html">成果二</a><label>( 2009.05.26 )</label></p>
+                    <p><a class="成果三" href="../html/blog.html">成果三</a><label>( 2009.05.26 )</label></p>
                     <p>&nbsp;</p>
                 </div>
             </div>
 
-            <div class="col-md-6 study-grid">
-                <h3>技能<span></span></h3>
+            <div class="col-md-5 study-grid">
+                <h3>&nbsp;&nbsp;项目列表<span></span></h3>
+                <div class="btn-group">
+                    <button type="button" class="btn btn-default dropdown-toggle btn-lg" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                        已完成项目 <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">咿呀母婴网站</a></li>
+                        <li><a href="#">果蔬鲜网站</a></li>
+                        <li><a href="#">轻聊app</a></li>
+                        <li><a href="#">淘货网站</a></li>
+                    </ul>
+                </div>
+                <div class="btn-group">
+                    <button type="button" class="btn btn-default dropdown-toggle btn-lg" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                        正在进行 <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">咿呀母婴网站</a></li>
+                        <li><a href="#">果蔬鲜网站</a></li>
+                        <li><a href="#">轻聊app</a></li>
+                        <li><a href="#">淘货网站</a></li>
+                    </ul>
+                </div>
+                <hr>
+                <div class="btn-group">
+                    <button type="button" class="btn btn-default dropdown-toggle btn-lg" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                        未完成 <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">咿呀母婴网站</a></li>
+                        <li><a href="#">果蔬鲜网站</a></li>
+                        <li><a href="#">轻聊app</a></li>
+                        <li><a href="#">淘货网站</a></li>
+                    </ul>
+                </div>
+                <hr>
+                <h4>技能展示</h4>
                 <button class="btn btn-info">Android系统</button>
                 <button class="btn btn-info">iOS系统商城APP</button>
                 <button class="btn btn-info">网购支付APP</button>
@@ -107,7 +175,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <div class="contact-section" id="contact">
     <div class="container">
-        <h3>向我留言</h3>
+        <a  name="tips"><h3>向我留言</h3></a>
         <div class="contact-details">
             <form>
                 <div class="col-md-6 contact-left">
@@ -141,7 +209,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <script type="text/javascript">
             $(document).ready(function () {
 
-                $().UItoTop({easingType: 'easeOutQuart'});
+//                $().UItoTop({easingType: 'easeOutQuart'});
 
             });
         </script>

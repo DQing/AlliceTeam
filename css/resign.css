@@ -3,9 +3,9 @@ body {
     padding-bottom: 30px;
     background-color: #eee;
 }
-/*.content{
-    background-image: url("../image/8.jpg");
-}*/
+.xiugai{
+    width: 50%;
+}
 .theme-dropdown .dropdown-menu {
     position: static;
     display: block;
@@ -24,7 +24,7 @@ body {
     max-width: 330px;
     padding: 15px;
     margin: 0 auto;
-    height: 700px;
+    height: 1000px;
 }
 .form-signin .form-signin-heading,
 .form-signin .checkbox {
