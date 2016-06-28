@@ -2,24 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="823825a3-5a83-4323-b370-8f42d68eb12a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/toubiao.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/yiya.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/zhaobiao.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/jiaoyi.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/html/jisuanjiww.html" afterPath="$PROJECT_DIR$/html/test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/14.jpg" afterPath="$PROJECT_DIR$/image/14.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/jiaoyi.css" afterPath="$PROJECT_DIR$/css/jiaoyi.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/youxiu.css" afterPath="$PROJECT_DIR$/css/youxiu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/blog.html" afterPath="$PROJECT_DIR$/html/blog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/fabuxuqiu.html" afterPath="$PROJECT_DIR$/html/fabuxuqiu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/fuwu.html" afterPath="$PROJECT_DIR$/html/fuwu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/gerenkongjian.html" afterPath="$PROJECT_DIR$/html/gerenkongjian.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/login.html" afterPath="$PROJECT_DIR$/html/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/resign.html" afterPath="$PROJECT_DIR$/html/resign.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/toubiao.html" afterPath="$PROJECT_DIR$/html/toubiao.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/xieblog.html" afterPath="$PROJECT_DIR$/html/xieblog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/xiugai.html" afterPath="$PROJECT_DIR$/html/xiugai.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/yijian.html" afterPath="$PROJECT_DIR$/html/yijian.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/yiya.html" afterPath="$PROJECT_DIR$/html/yiya.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/youxiu.html" afterPath="$PROJECT_DIR$/html/youxiu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/zhaobiao.html" afterPath="$PROJECT_DIR$/html/zhaobiao.html" />
     </list>
     <ignored path="AlliceTeam.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,21 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="zhaobiao.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/zhaobiao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+            <state relative-caret-position="660">
+              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -76,8 +62,8 @@
       <file leaf-file-name="zhifu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/zhifu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="308">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -86,18 +72,18 @@
       <file leaf-file-name="youxiu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/youxiu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+            <state relative-caret-position="814">
+              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/test.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-858">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -106,7 +92,7 @@
       <file leaf-file-name="yiya.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/yiya.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="748">
               <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -115,11 +101,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="toubiao.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/toubiao.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="31" column="68" selection-start-line="30" selection-start-column="24" selection-end-line="31" selection-end-column="68" />
+            <state relative-caret-position="814">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -141,8 +137,8 @@
       <file leaf-file-name="xieblog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/xieblog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+            <state relative-caret-position="902">
+              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -151,7 +147,7 @@
       <file leaf-file-name="xiugai.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/xiugai.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="704">
               <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
               <folding />
             </state>
@@ -161,7 +157,7 @@
       <file leaf-file-name="yijian.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/yijian.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
+            <state relative-caret-position="858">
               <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
               <folding />
             </state>
@@ -189,8 +185,6 @@
         <option value="$PROJECT_DIR$/css/fuwu.js" />
         <option value="$PROJECT_DIR$/css/fuwu.css" />
         <option value="$PROJECT_DIR$/css/resign.css" />
-        <option value="$PROJECT_DIR$/html/resign.html" />
-        <option value="$PROJECT_DIR$/html/login.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/html/jisuanjiww.html" />
@@ -204,11 +198,13 @@
         <option value="$PROJECT_DIR$/html/fabuxuqiu.html" />
         <option value="$PROJECT_DIR$/html/fuwu.html" />
         <option value="$PROJECT_DIR$/html/gerenkongjian.html" />
-        <option value="$PROJECT_DIR$/html/xieblog.html" />
         <option value="$PROJECT_DIR$/html/xiugai.html" />
         <option value="$PROJECT_DIR$/html/yijian.html" />
         <option value="$PROJECT_DIR$/html/yiya.html" />
         <option value="$PROJECT_DIR$/html/youxiu.html" />
+        <option value="$PROJECT_DIR$/html/login.html" />
+        <option value="$PROJECT_DIR$/html/resign.html" />
+        <option value="$PROJECT_DIR$/html/xieblog.html" />
         <option value="$PROJECT_DIR$/html/zhaobiao.html" />
         <option value="$PROJECT_DIR$/html/index.html" />
       </list>
@@ -221,9 +217,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -289,17 +285,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/nodejs/test6" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.8.0/bin/node" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.toubiao.html">
-    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AlliceTeam/html/test.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="yiya.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AlliceTeam/html/yiya.html">
       <method />
     </configuration>
@@ -310,6 +303,9 @@
       <method />
     </configuration>
     <configuration default="false" name="toubiao.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AlliceTeam/html/toubiao.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AlliceTeam/html/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -370,19 +366,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.zhaobiao.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.yiya.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.blog.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.fuwu.html" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.toubiao.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.yiya.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.blog.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.fuwu.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.toubiao.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.toubiao.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.fuwu.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.yiya.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.blog.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.toubiao.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.fuwu.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.yiya.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.blog.html" />
       </list>
     </recent_temporary>
   </component>
@@ -405,33 +401,39 @@
       <workItem from="1466425171958" duration="18000" />
       <workItem from="1466430899626" duration="13682000" />
       <workItem from="1466467487485" duration="15931000" />
-      <workItem from="1466498646992" duration="3567000" />
+      <workItem from="1466498646992" duration="6643000" />
+      <workItem from="1466523529612" duration="581000" />
+      <workItem from="1466554830506" duration="28000" />
+      <workItem from="1466584254357" duration="36000" />
+      <workItem from="1466651249490" duration="1761000" />
+      <workItem from="1466655270998" duration="606000" />
+      <workItem from="1466680407425" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53543000" />
+    <option name="totallyTimeSpent" value="59660000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20983858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20983858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -654,67 +656,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="597">
           <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/fabuxuqiu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="330">
           <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/fuwu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state relative-caret-position="176">
           <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/gerenkongjian.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="53" column="65" selection-start-line="52" selection-start-column="23" selection-end-line="53" selection-end-column="65" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/resign.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
-          <folding />
+          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="348">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/resign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-858">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/toubiao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="31" column="68" selection-start-line="30" selection-start-column="24" selection-end-line="31" selection-end-column="68" />
+        <state relative-caret-position="814">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -734,15 +725,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/xieblog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+        <state relative-caret-position="902">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/xiugai.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="704">
           <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
           <folding />
         </state>
@@ -750,7 +741,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/yijian.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
+        <state relative-caret-position="858">
           <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
           <folding />
         </state>
@@ -758,7 +749,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/yiya.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="748">
           <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -766,18 +757,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/youxiu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/zhaobiao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        <state relative-caret-position="660">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -797,16 +780,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/zhifu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="308">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/youxiu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+        <state relative-caret-position="242">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
           <folding />
         </state>
       </provider>
